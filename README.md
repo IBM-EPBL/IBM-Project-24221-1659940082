@@ -1,17 +1,18 @@
-# IBM-Project-24221-1659940082
-Nutrition assistant Application
+TEAM ID : PNT2022TMID09728
 
 
-Team Leader:
-   
-   Marusamy.J
-
-Team Members:
-
-Bharath.S
+NUTRITION ASSISTANT APPLICATION
 
 
-Devendra.V.G
+⏺️IBM-Project-24221-1659940082
 
 
-Manojkumar.K
+🧑‍💻TEAM MEMBERS
+
+MARUSAMY J
+
+BHARATH S
+                  
+DEVENDRA V.G
+
+MANOJKUMAR K
